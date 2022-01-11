@@ -15,3 +15,4 @@ I am able to develop with precision and performance, any project, be it electron
 I love challenges because with it I can develop new skills. An example of this I found at WISEHOME where I needed to create an electronic board to control inductive and resistive loads inside a 4X2 box, standard Brazilian. WiserHome asked me for a project that would allow people around the world to efficiently and safely control lighting and electrically connected devices in a totally innovative, absolutely safe and socially-environmental way, extremely accessible to all social classes.
 
 With that in mind, I developed a board that is connected to the house's existing switch or outlet inside the 4X2 box, so that the resident can control the lights and even control his audio and video system and the electric gate through an application mobile or using existing switches in your home.
+If you like my work and want me to be able to keep improving it, please sponsor me on GitHub.
